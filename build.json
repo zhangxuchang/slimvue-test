@@ -3,7 +3,7 @@
         "slimvue-s3-test": {
             "type" : "static",
             "hosts": "slimvue-s3-test.oasgames.com",
-            "root" : "slimvue-slimvue-test/dist/htmls"
+            "root" : "slimvue-slimvue-test/dist"
         }
     },
     "node_sub_projects": ["slimvue-slimvue-test"],
