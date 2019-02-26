@@ -8,5 +8,5 @@
     },
     "node_sub_projects": ["slimvue-slimvue-test"],
     "node_auto_build_disabled": false,
-    "composer_enabled": true,
+    "composer_enabled": true
 }
