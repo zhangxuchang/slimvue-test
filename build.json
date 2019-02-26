@@ -7,6 +7,6 @@
         }
     },
     "node_sub_projects": ["slimvue-slimvue-test"],
-    "node_auto_build_disabled": false,
+    "node_auto_build_disabled": true,
     "composer_enabled": true
 }
