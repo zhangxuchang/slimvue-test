@@ -1,9 +1,12 @@
 {
     "targets": {
-        "site-lopl-event79": {
+        "slimvue-s3-test": {
             "type" : "static",
-            "hosts": "event79-lopl.oasgames.com",
-            "root" : "public"
+            "hosts": "slimvue-s3-test.oasgames.com",
+            "root" : "slimvue-slimvue-test/dist/htmls"
         }
     }
+    "node_sub_projects": ["slimvue-slimvue-test"],
+    "node_auto_build_disabled": false,
+    "composer_enabled": true,
 }
