@@ -5,7 +5,7 @@
             "hosts": "slimvue-s3-test.oasgames.com",
             "root" : "slimvue-slimvue-test/dist/htmls"
         }
-    }
+    },
     "node_sub_projects": ["slimvue-slimvue-test"],
     "node_auto_build_disabled": false,
     "composer_enabled": true,
