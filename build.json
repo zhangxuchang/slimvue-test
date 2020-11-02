@@ -9,5 +9,6 @@
     },
     "node_sub_projects": ["slimvue-slimvue-test"],
     "node_auto_build_disabled": true,
+    "node_major_version": 12,
     "composer_enabled": true
 }
